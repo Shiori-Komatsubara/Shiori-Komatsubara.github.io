@@ -1,7 +1,7 @@
-h1{color:rgb(150, 175, 223); background-color: white;}
-body {background-color: #aedbae; margin:0;}
+h1{color:rgb(0, 0, 0); background-color: #e2c898(226, 221, 172);}
+body {background-color: #e2c898; margin:0;}
 li{list-style:none;}
 ul{display:flex; margin-top:0;}
-li{list-style:none;padding:20px 30px 20px 30px;color: white;}
+li{list-style:none;padding:20px 30px 20px 30px;color: black;}
 .header{background-color: rgb(119, 91, 49);height: 70px;}
-    
+.neck{margin: 30px;}
