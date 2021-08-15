@@ -1,7 +1,7 @@
 h1{color:rgb(150, 175, 223); background-color: white;}
-body {background-color: #aedbae;}
+body {background-color: #aedbae; margin:0;}
 li{list-style:none;}
-ul{display:flex;}
+ul{display:flex; margin-top:0;}
 li{list-style:none;padding:20px 30px 20px 30px;color: white;}
-.header{background-color: rgb(15, 15, 80);height: 70px;}
+.header{background-color: rgb(119, 91, 49);height: 70px;}
     
